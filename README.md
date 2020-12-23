@@ -7,4 +7,9 @@
 ![README](KKUlogo.png)
 
 HW1 การบันทึกไฟล์จาก Google colab ไปยัง Github
-1.เข้าGoogle colab หลังจากนั้นคลิกไปที่ "ไฟล์" แล้วเลือก "บันทึกสำเนาใน Github"
+
+1.เข้าGoogle colab หลังจากนั้นคลิกไปที่ "ไฟล์" แล้วเลือก "บันทึกสำเนาใน GitHub"
+![README](colab2.jpg)
+
+2.เมื่อคลิก "บันทึกสำเนาใน Github" แล้วจะได้ตามดังรูป หลังจากนั้นให้พิมพ์ "frist commit" ที่ข้อความคอมมิต แล้วกดตกลง
+![README](colab1.jpg)
